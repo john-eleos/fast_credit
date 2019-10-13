@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748493427706",
+    "firebase_url": "https://fast-credit-c3a43.firebaseio.com",
+    "project_id": "fast-credit-c3a43",
+    "storage_bucket": "fast-credit-c3a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748493427706:android:dc967ce6673fcd5e414a43",
+        "android_client_info": {
+          "package_name": "ng.com.eleos.fast_credit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748493427706-teog81p7tkjb7na9i7jarfk8qle00ofg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1kC3Ji_8t8ErK50UgNbZCmFFxiRw6Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748493427706-teog81p7tkjb7na9i7jarfk8qle00ofg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
